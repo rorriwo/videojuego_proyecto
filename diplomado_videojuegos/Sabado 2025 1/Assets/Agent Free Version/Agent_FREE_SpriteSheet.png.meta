@@ -1,0 +1,3585 @@
+fileFormatVersion: 2
+guid: d1a70c565ea13d44682c4dc048ec490e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 256
+        width: 28
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244d4f1e65309224db8b823b0496e53e
+      internalID: 1871785837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 256
+        width: 38
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079141674756ec04384fa23672a9ad9e
+      internalID: -156134228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 256
+        width: 28
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3e01c878d34b847923f0fbffd6b9c7
+      internalID: 933076842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 256
+        width: 33
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25a03ca5cc393b4c8fa7b6e6c059ea0
+      internalID: 2117728720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 256
+        width: 35
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44de3ba5dda679d4ca6e6f2c7fd2d598
+      internalID: -1537098990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 249
+        width: 62
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b728d329e6130489bcdcfb2d56c62e
+      internalID: 221692499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 249
+        width: 62
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb55a3e0cd1898c42a6e6ed67b0381f4
+      internalID: 1603277757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 249
+        width: 62
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee5ffe3ec0ce8c40b04102ae0d37792
+      internalID: -1643575522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 249
+        width: 62
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2887eec0ba9a0d54c8e3f0b9a7a319bc
+      internalID: 1720689223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 249
+        width: 62
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9c087abfc6d6c4fb6cdc0addd44480
+      internalID: -1864748428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62f735d068687e428366f2a8a9922c1
+      internalID: -50500592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 225
+        width: 12
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea3aac18fb5f724885d37aa12cd2234
+      internalID: -143464732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 225
+        width: 12
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea93052f6a333847992a1f7878e5745
+      internalID: 1209849240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 225
+        width: 12
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14994d0d938839944a42e1865f604be2
+      internalID: 1581798965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 225
+        width: 12
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419abe97de4abe941a69e54d168dabab
+      internalID: 1729660165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 225
+        width: 12
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21eb47b37b26fac478e48e06d0be7210
+      internalID: 1791099051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 225
+        width: 12
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800d1cf98f6295f419f66c4065e9d375
+      internalID: 670813979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 225
+        width: 12
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d6aac8505069247b0271622b088370
+      internalID: 393830737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 225
+        width: 12
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24601d21198560c4f931a90ccdbbc3c3
+      internalID: 1282827980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 225
+        width: 12
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2ca1b957a6269409d04bfab2ab7d82
+      internalID: -1051155638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 227
+        width: 12
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cafa65d38aca44ab26e5641997c3c1
+      internalID: -1684170368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 225
+        width: 12
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e12b406d6d016f4e8e5169a8852d675
+      internalID: 171162228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 227
+        width: 12
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd38ab1c1b29aa9498c99750f3ea43d6
+      internalID: -1668938392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 224
+        width: 10
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5acd58d270ea3747ba18ccea52a3b6c
+      internalID: -1753891353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 226
+        width: 10
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48518a77f0325f548b707c4cf26a7624
+      internalID: -269072332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 224
+        width: 10
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27dc081e1795024ca5a03a18ef1ccc4
+      internalID: 1933650166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 226
+        width: 10
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2011d22c1806404cb7f7267db1ef70a
+      internalID: 1980332399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 225
+        width: 10
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838ff0b2d613ac344bade57bdbfc56e6
+      internalID: -1865626756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 225
+        width: 10
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b771eede64418a49afb04c44c221129
+      internalID: -1592402399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 225
+        width: 10
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add471be4769afd46a087cf20c09dc0c
+      internalID: 969841960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 225
+        width: 10
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a7378860498264bbca5a3da3478a6d
+      internalID: -1548508061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 201
+        width: 6
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b875dd33117be84a8827063071dfd80
+      internalID: 656052953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 201
+        width: 6
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f77e6d56716504ab723ab650ee7213
+      internalID: -1309862795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 201
+        width: 6
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc4d62943304894787c1d1815415397
+      internalID: 582513852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 201
+        width: 6
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530d0fd2ecaba8f4bb7059c2960846ea
+      internalID: 733407809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 202
+        width: 11
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f4b5ac517db4e449cd79d2118fbb04
+      internalID: 280027099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 202
+        width: 6
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea4a5dd1a0e82e46a2da47f4d2c9913
+      internalID: 1501328984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 202
+        width: 10
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d32c2d170c35834ebb3f29a4b71ee42
+      internalID: 1462904686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 202
+        width: 6
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bb2450dcb9461448965df40c9ced2f
+      internalID: 153080207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 202
+        width: 13
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9029507579d49574f9bf34d8cda82ae4
+      internalID: -1835602819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 201
+        width: 9
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e67584d742aa6e49b08aa2ee4faad38
+      internalID: -1559344533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 202
+        width: 13
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535ee654576c3214bad02e631a10cb5d
+      internalID: -865729166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 201
+        width: 9
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94aa9a76545be2d4f8a05f53298c0ead
+      internalID: -2030668255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 200
+        width: 10
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92889bc7988d464f97739d73d31b30e
+      internalID: -812723831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 200
+        width: 10
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a688bdbea4b76c49b3035307b882746
+      internalID: 1758809413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 200
+        width: 10
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee46ccdeca6fcb40ba3a2af626206a2
+      internalID: 1125288679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 200
+        width: 10
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cf53c43b633584e8f29aad155d4749
+      internalID: -1093552070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 201
+        width: 13
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd27783daa67769408979f3102458f51
+      internalID: 695696961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 201
+        width: 11
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044f557629c48ff4aaff71cc66440708
+      internalID: 1261103974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 201
+        width: 13
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11aaeefd3497074b9148280214deae4
+      internalID: -796366842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 201
+        width: 11
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3bc87a84cdee9439ca9da467ad1738
+      internalID: -293219129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 41
+        width: 66
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed217fe6251ddc49839cdafdb734908
+      internalID: 1052281702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 177
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90c8666cb4c08642a0e8511a1e7f2c6
+      internalID: 1578225879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 177
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9f835bd6a3c9a4abf32b8ccf60ef22
+      internalID: 1758459929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 177
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0342ed7ad0fb23e44b5dd7c681966adc
+      internalID: 2096611601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 177
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f101dc0768abe1438cdea261aae3b12
+      internalID: -1672478084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 178
+        width: 12
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849bc904c724e8440bfd72ac77caced2
+      internalID: 1307194515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 178
+        width: 12
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf03cd0609c5df4fbb6184ddee07f42
+      internalID: 1220184449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 178
+        width: 12
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b4cc179593e92459ab7abffa535ea5
+      internalID: 1472954264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 178
+        width: 12
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9649dcd48f2743c4e9bda39a6757779b
+      internalID: 130663837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 179
+        width: 12
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfcacc9e461dd548bd90fcb4120974a
+      internalID: 1106173165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 177
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37689629f6818164f8a860d481f013c7
+      internalID: -1589299725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 179
+        width: 12
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896ff40db33e6284a8ebd81051981d77
+      internalID: 839838300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 177
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febff5e582131d8439e0b5508c38f032
+      internalID: -580799580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 177
+        width: 10
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734e1a1c0b373e84191ebc58693e3fbd
+      internalID: -573134784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 177
+        width: 10
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b38a2fdaf2d44344b3e727eac849cc7
+      internalID: -1238940683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 177
+        width: 10
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a822bd1a264790458d64e5b53be424c
+      internalID: -1843950167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 177
+        width: 10
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15b695346b1a1f4ba500ba089f63157
+      internalID: -1429259464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 177
+        width: 10
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b5fc383f4fada4dbaa6f7916c41fd4
+      internalID: -2039147319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 177
+        width: 10
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31c52c10aad36744a1ae1c1af6aa46a
+      internalID: 409256397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 177
+        width: 10
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb47118dc2b4be944adaf3b930e8ce35
+      internalID: -1845690441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 177
+        width: 10
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802f914f3f755334097156ac7eccda9b
+      internalID: 1285713892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 153
+        width: 6
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f8a68aa71997a48bce28b03cc8db93
+      internalID: 280767828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 153
+        width: 6
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59237f7a5d0bc1f4fba3306d66715176
+      internalID: -237628119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 153
+        width: 6
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5287c55608a563428d96b58a5f0db5b
+      internalID: -392458476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 153
+        width: 6
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d343dc97fda1d747a967e3dd57ad277
+      internalID: -36783567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 153
+        width: 6
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71d1505dd3799c4885838eac66b96cd
+      internalID: -1400444221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 153
+        width: 10
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7260f9392113ab8469f06b0558cf14d9
+      internalID: -163724958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 153
+        width: 6
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e8f62833f69a14894f99d9eea955d5
+      internalID: -803846951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 153
+        width: 11
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c60f3dea1801f34db7df6a26d7c3e69
+      internalID: 1783020688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 153
+        width: 9
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3518c614ede0264490ae2a8cdc4dbaf
+      internalID: -497804246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 154
+        width: 13
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a64dbe58b3ad645a951537f6479483
+      internalID: 1384759449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 153
+        width: 9
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f02d82245ae9c4da86642ff9c0359e
+      internalID: 841206250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 154
+        width: 13
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6125968be0971084594a7cef0d2bb35d
+      internalID: 1362642641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 153
+        width: 10
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0984c3b8b9bbd764da34167bf18d864d
+      internalID: 241336549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 153
+        width: 10
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c47eb796e66c44b93d491121aca69e
+      internalID: 397326981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 153
+        width: 10
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0671dca9140ce234eb5617e55a548f75
+      internalID: -1129293870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 153
+        width: 10
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bbfd99b558aeb4cbdcee424f544836
+      internalID: -652828923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 153
+        width: 11
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917f8a093f67d4f4b8fb475e7d1143cc
+      internalID: -276005146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 153
+        width: 13
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832957f629373af4589f2197ea9c6a66
+      internalID: -2095163467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 153
+        width: 11
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad644db0fc412714e9252200ed0fbc5f
+      internalID: 1331950757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 153
+        width: 13
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c22529ecad18a84bbaaecfa17db9d2d
+      internalID: -1880292496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 138
+        width: 49
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daaa15db64c86fd4583113ba9b7cf8e2
+      internalID: -1764767049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 136
+        width: 42
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5836f8d79250ccf4da944bb84ea98c12
+      internalID: -1698537019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 136
+        width: 49
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff3c0a776288f343920e7eb2d7df856
+      internalID: 575460285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 129
+        width: 62
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7eaf1c645c58d40b31b39bb5fb26e4
+      internalID: 960010626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 94
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667c7c69dc04a1b4eb99a79b465d1cc4
+      internalID: 1005969281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 129
+        width: 94
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16c7b366cf8c0548ba3ebebc1db8807
+      internalID: 1985425424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 13
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5d5946cafe59f4382d3b621d92b074
+      internalID: -599879935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 105
+        width: 10
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f487e433b5f89e41828458e0b4d9434
+      internalID: -284896174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 105
+        width: 13
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf9d79dc48405243b013363635cf7f3
+      internalID: 520735703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 105
+        width: 10
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445c6439aeae3424abd0225ae24c86ac
+      internalID: 1174372258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 105
+        width: 12
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2eeaa5bda9c54448dc23e616546796
+      internalID: 1944934592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 105
+        width: 12
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10406f585fa3a4c4f9c3821baada409d
+      internalID: 635889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 106
+        width: 14
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9227df4d90f43f34eba211ee5197617f
+      internalID: 1589455167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 106
+        width: 14
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c1cd51553969a4f8a985fc39f3c822
+      internalID: -655787525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 105
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48656853ae8f83b48a58e3852a2e26de
+      internalID: -57560524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 104
+        width: 15
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3d65ce0cb2f6f4c88d76187c6d133f
+      internalID: -1613700311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 104
+        width: 11
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fea8a4f0d1bfc44bfa2c5da0ff785c
+      internalID: 827037185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 105
+        width: 11
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6430dab75b938f46860504fbe2d2697
+      internalID: -27289327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 82
+        width: 62
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d438c30bfdbcdd41b24425b9fc3e3cb
+      internalID: 906582896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 82
+        width: 6
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054117d57b340e74bae4f76c1043cdb7
+      internalID: -2031303919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 82
+        width: 10
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e1e54c206b0d047aca061a7e1b40be
+      internalID: -187494924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 83
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f5cc3a518b09140a6908fc954fe899
+      internalID: 1413101746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 83
+        width: 22
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b82328001ebd0444a5eca645b62a17a
+      internalID: 1563064640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 81
+        width: 9
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55bcd05752201a4ea8038363331e7b9
+      internalID: 1987956206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 81
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59201f7cf2e03de45b600f7e3e29f58c
+      internalID: -1944044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 81
+        width: 11
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8120a4ff649d64ebd2ea478e79fbf0
+      internalID: 1417641905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 81
+        width: 10
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cc773b25d0ade439fdf7b557926745
+      internalID: 1428740133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 73
+        width: 63
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e139c0416b125f41a76aaae243c3c52
+      internalID: 818649170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 57
+        width: 12
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e2fe03318018d41aecaac04c9af8db
+      internalID: -858609458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 60
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e25321c24e10f4b8847041d461e12c
+      internalID: -148629121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_122
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 62
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea781b6375e028b4b96e0349a9ccfe08
+      internalID: 1326150660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_123
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 60
+        width: 14
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc834ddc8d362e24fb92fbf0b2bc9d3b
+      internalID: -1052074193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_124
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 57
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1803e7ff4e0466649983dcfa6df6cb56
+      internalID: 1865633418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_125
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 58
+        width: 13
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d33d131d5ca75348a007faa0f6e7fdc
+      internalID: -542534688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_126
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 58
+        width: 12
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a875ec684c6f17547b3c32d9387b9c9c
+      internalID: 587890790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_127
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 57
+        width: 12
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f488d4df1af2044bd2f0bcf988e6e7
+      internalID: -1923212828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_128
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 50
+        width: 10
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e674e2e3b96e7f4782ee8b2e40375f8
+      internalID: -979515449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_129
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 50
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8753b68528a1b5c4e81c703f197589ad
+      internalID: -1153456323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_130
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 50
+        width: 10
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad8e2d035fb2674d984e4d68031939d
+      internalID: 1553268014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_131
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 50
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfbeeed9b8f0c74ca2e926a294defe3
+      internalID: 752894603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_132
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 33
+        width: 6
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a578c20bfcca8408c3ccf1202844ae
+      internalID: 931293434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 33
+        width: 10
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecba59a7b3d382438fbee34749f7cc6
+      internalID: -1791908721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_134
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 33
+        width: 7
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760fa360eb119474bb1bbc830ce68a4e
+      internalID: 153085938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_135
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 33
+        width: 17
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec5c3abad1a7564b90a40a3656dfd1d
+      internalID: -1433436048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_136
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 33
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648651a70189bbc40a9f6858bef6dcb5
+      internalID: 59655813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_137
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 33
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780ede24a8c454648b124bdd9de91cfb
+      internalID: -2088200904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_138
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 33
+        width: 35
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289d664ea7b738c4e9d62280ef1c215b
+      internalID: -1662666984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_139
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 34
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6c9f3c243c2bb479f4eb64b96801a6
+      internalID: -1658997667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_140
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 33
+        width: 22
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0322afdf3bc744d876d7e7613863b6
+      internalID: 2126650105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_141
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 25
+        width: 62
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67197d87d3d99d944b4f602e2286cc2c
+      internalID: -108298475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_142
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 18
+        width: 4
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f29cdcdde8c1a48b9e979b7e2ada83
+      internalID: -1199803363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_143
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 8
+        width: 40
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8441c7a0b421b784caffbb5d1c79bbc4
+      internalID: 130090222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_144
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 10
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f8fc5c42f97b94e8277e6ada3b1ed3
+      internalID: -1600568907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_145
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1
+        width: 12
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d44cf41ed5136749a1cae6c9579f972
+      internalID: -661455979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_146
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1
+        width: 10
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93da5ed74260493409f06ac5aeb2dde2
+      internalID: -793801773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_147
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1
+        width: 12
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3230305c73319584782afcef63cb5a3c
+      internalID: 1030545021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_148
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 95
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0617d6fd80a2d84e9b52275728fb009
+      internalID: -1966110445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_149
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 8
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddb450a909c7c94397f50a2e228df8c
+      internalID: 999906404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_150
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 8
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8f13a94f75a0d48aefe2b15f5ad517
+      internalID: 462450774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_151
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 8
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dd902ccabfd1d429b3ddb7f7e45518
+      internalID: -668069690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_152
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 8
+        width: 40
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649a6757f091b1845973e5eb1f5c8d65
+      internalID: 387019593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 8
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8c36df203e4f944ab3c5b9b872ec7b
+      internalID: 1396941461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_154
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 8
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89109512bc2c28f499229f4239cf6b6b
+      internalID: 1642033637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agent_FREE_SpriteSheet_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 8
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8ad58fee80d3842a97ce13bf30bfb6
+      internalID: 905917064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0752828458389964cbb1893cd839d7c3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Agent_FREE_SpriteSheet_0: 1871785837
+      Agent_FREE_SpriteSheet_1: -156134228
+      Agent_FREE_SpriteSheet_10: -50500592
+      Agent_FREE_SpriteSheet_100: 520735703
+      Agent_FREE_SpriteSheet_101: 1174372258
+      Agent_FREE_SpriteSheet_102: 1944934592
+      Agent_FREE_SpriteSheet_103: 635889
+      Agent_FREE_SpriteSheet_104: 1589455167
+      Agent_FREE_SpriteSheet_105: -655787525
+      Agent_FREE_SpriteSheet_106: -57560524
+      Agent_FREE_SpriteSheet_107: -1613700311
+      Agent_FREE_SpriteSheet_108: 827037185
+      Agent_FREE_SpriteSheet_109: -27289327
+      Agent_FREE_SpriteSheet_11: -143464732
+      Agent_FREE_SpriteSheet_110: 906582896
+      Agent_FREE_SpriteSheet_111: -2031303919
+      Agent_FREE_SpriteSheet_112: -187494924
+      Agent_FREE_SpriteSheet_113: 1413101746
+      Agent_FREE_SpriteSheet_114: 1563064640
+      Agent_FREE_SpriteSheet_115: 1987956206
+      Agent_FREE_SpriteSheet_116: -1944044
+      Agent_FREE_SpriteSheet_117: 1417641905
+      Agent_FREE_SpriteSheet_118: 1428740133
+      Agent_FREE_SpriteSheet_119: 818649170
+      Agent_FREE_SpriteSheet_12: 1209849240
+      Agent_FREE_SpriteSheet_120: -858609458
+      Agent_FREE_SpriteSheet_121: -148629121
+      Agent_FREE_SpriteSheet_122: 1326150660
+      Agent_FREE_SpriteSheet_123: -1052074193
+      Agent_FREE_SpriteSheet_124: 1865633418
+      Agent_FREE_SpriteSheet_125: -542534688
+      Agent_FREE_SpriteSheet_126: 587890790
+      Agent_FREE_SpriteSheet_127: -1923212828
+      Agent_FREE_SpriteSheet_128: -979515449
+      Agent_FREE_SpriteSheet_129: -1153456323
+      Agent_FREE_SpriteSheet_13: 1581798965
+      Agent_FREE_SpriteSheet_130: 1553268014
+      Agent_FREE_SpriteSheet_131: 752894603
+      Agent_FREE_SpriteSheet_132: 931293434
+      Agent_FREE_SpriteSheet_133: -1791908721
+      Agent_FREE_SpriteSheet_134: 153085938
+      Agent_FREE_SpriteSheet_135: -1433436048
+      Agent_FREE_SpriteSheet_136: 59655813
+      Agent_FREE_SpriteSheet_137: -2088200904
+      Agent_FREE_SpriteSheet_138: -1662666984
+      Agent_FREE_SpriteSheet_139: -1658997667
+      Agent_FREE_SpriteSheet_14: 1729660165
+      Agent_FREE_SpriteSheet_140: 2126650105
+      Agent_FREE_SpriteSheet_141: -108298475
+      Agent_FREE_SpriteSheet_142: -1199803363
+      Agent_FREE_SpriteSheet_143: 130090222
+      Agent_FREE_SpriteSheet_144: -1600568907
+      Agent_FREE_SpriteSheet_145: -661455979
+      Agent_FREE_SpriteSheet_146: -793801773
+      Agent_FREE_SpriteSheet_147: 1030545021
+      Agent_FREE_SpriteSheet_148: -1966110445
+      Agent_FREE_SpriteSheet_149: 999906404
+      Agent_FREE_SpriteSheet_15: 1791099051
+      Agent_FREE_SpriteSheet_150: 462450774
+      Agent_FREE_SpriteSheet_151: -668069690
+      Agent_FREE_SpriteSheet_152: 387019593
+      Agent_FREE_SpriteSheet_153: 1396941461
+      Agent_FREE_SpriteSheet_154: 1642033637
+      Agent_FREE_SpriteSheet_155: 905917064
+      Agent_FREE_SpriteSheet_16: 670813979
+      Agent_FREE_SpriteSheet_17: 393830737
+      Agent_FREE_SpriteSheet_18: 1282827980
+      Agent_FREE_SpriteSheet_19: -1051155638
+      Agent_FREE_SpriteSheet_2: 933076842
+      Agent_FREE_SpriteSheet_20: -1684170368
+      Agent_FREE_SpriteSheet_21: 171162228
+      Agent_FREE_SpriteSheet_22: -1668938392
+      Agent_FREE_SpriteSheet_23: -1753891353
+      Agent_FREE_SpriteSheet_24: -269072332
+      Agent_FREE_SpriteSheet_25: 1933650166
+      Agent_FREE_SpriteSheet_26: 1980332399
+      Agent_FREE_SpriteSheet_27: -1865626756
+      Agent_FREE_SpriteSheet_28: -1592402399
+      Agent_FREE_SpriteSheet_29: 969841960
+      Agent_FREE_SpriteSheet_3: 2117728720
+      Agent_FREE_SpriteSheet_30: -1548508061
+      Agent_FREE_SpriteSheet_31: 656052953
+      Agent_FREE_SpriteSheet_32: -1309862795
+      Agent_FREE_SpriteSheet_33: 582513852
+      Agent_FREE_SpriteSheet_34: 733407809
+      Agent_FREE_SpriteSheet_35: 280027099
+      Agent_FREE_SpriteSheet_36: 1501328984
+      Agent_FREE_SpriteSheet_37: 1462904686
+      Agent_FREE_SpriteSheet_38: 153080207
+      Agent_FREE_SpriteSheet_39: -1835602819
+      Agent_FREE_SpriteSheet_4: -1537098990
+      Agent_FREE_SpriteSheet_40: -1559344533
+      Agent_FREE_SpriteSheet_41: -865729166
+      Agent_FREE_SpriteSheet_42: -2030668255
+      Agent_FREE_SpriteSheet_43: -812723831
+      Agent_FREE_SpriteSheet_44: 1758809413
+      Agent_FREE_SpriteSheet_45: 1125288679
+      Agent_FREE_SpriteSheet_46: -1093552070
+      Agent_FREE_SpriteSheet_47: 695696961
+      Agent_FREE_SpriteSheet_48: 1261103974
+      Agent_FREE_SpriteSheet_49: -796366842
+      Agent_FREE_SpriteSheet_5: 221692499
+      Agent_FREE_SpriteSheet_50: -293219129
+      Agent_FREE_SpriteSheet_51: 1052281702
+      Agent_FREE_SpriteSheet_52: 1578225879
+      Agent_FREE_SpriteSheet_53: 1758459929
+      Agent_FREE_SpriteSheet_54: 2096611601
+      Agent_FREE_SpriteSheet_55: -1672478084
+      Agent_FREE_SpriteSheet_56: 1307194515
+      Agent_FREE_SpriteSheet_57: 1220184449
+      Agent_FREE_SpriteSheet_58: 1472954264
+      Agent_FREE_SpriteSheet_59: 130663837
+      Agent_FREE_SpriteSheet_6: 1603277757
+      Agent_FREE_SpriteSheet_60: 1106173165
+      Agent_FREE_SpriteSheet_61: -1589299725
+      Agent_FREE_SpriteSheet_62: 839838300
+      Agent_FREE_SpriteSheet_63: -580799580
+      Agent_FREE_SpriteSheet_64: -573134784
+      Agent_FREE_SpriteSheet_65: -1238940683
+      Agent_FREE_SpriteSheet_66: -1843950167
+      Agent_FREE_SpriteSheet_67: -1429259464
+      Agent_FREE_SpriteSheet_68: -2039147319
+      Agent_FREE_SpriteSheet_69: 409256397
+      Agent_FREE_SpriteSheet_7: -1643575522
+      Agent_FREE_SpriteSheet_70: -1845690441
+      Agent_FREE_SpriteSheet_71: 1285713892
+      Agent_FREE_SpriteSheet_72: 280767828
+      Agent_FREE_SpriteSheet_73: -237628119
+      Agent_FREE_SpriteSheet_74: -392458476
+      Agent_FREE_SpriteSheet_75: -36783567
+      Agent_FREE_SpriteSheet_76: -1400444221
+      Agent_FREE_SpriteSheet_77: -163724958
+      Agent_FREE_SpriteSheet_78: -803846951
+      Agent_FREE_SpriteSheet_79: 1783020688
+      Agent_FREE_SpriteSheet_8: 1720689223
+      Agent_FREE_SpriteSheet_80: -497804246
+      Agent_FREE_SpriteSheet_81: 1384759449
+      Agent_FREE_SpriteSheet_82: 841206250
+      Agent_FREE_SpriteSheet_83: 1362642641
+      Agent_FREE_SpriteSheet_84: 241336549
+      Agent_FREE_SpriteSheet_85: 397326981
+      Agent_FREE_SpriteSheet_86: -1129293870
+      Agent_FREE_SpriteSheet_87: -652828923
+      Agent_FREE_SpriteSheet_88: -276005146
+      Agent_FREE_SpriteSheet_89: -2095163467
+      Agent_FREE_SpriteSheet_9: -1864748428
+      Agent_FREE_SpriteSheet_90: 1331950757
+      Agent_FREE_SpriteSheet_91: -1880292496
+      Agent_FREE_SpriteSheet_92: -1764767049
+      Agent_FREE_SpriteSheet_93: -1698537019
+      Agent_FREE_SpriteSheet_94: 575460285
+      Agent_FREE_SpriteSheet_95: 960010626
+      Agent_FREE_SpriteSheet_96: 1005969281
+      Agent_FREE_SpriteSheet_97: 1985425424
+      Agent_FREE_SpriteSheet_98: -599879935
+      Agent_FREE_SpriteSheet_99: -284896174
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

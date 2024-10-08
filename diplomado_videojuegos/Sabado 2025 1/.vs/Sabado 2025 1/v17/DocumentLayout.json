@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JESUS ADRIAN\\Desktop\\Adrian_Barrera\\Adrian_Barrera\\Sabado 2025 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B428D91-F357-5247-AA1A-7B93C86054BD}|Assembly-CSharp.csproj|C:\\Users\\JESUS ADRIAN\\Desktop\\Adrian_Barrera\\Adrian_Barrera\\Sabado 2025 1\\assets\\fondomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B428D91-F357-5247-AA1A-7B93C86054BD}|Assembly-CSharp.csproj|solutionrelative:assets\\fondomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B428D91-F357-5247-AA1A-7B93C86054BD}|Assembly-CSharp.csproj|C:\\Users\\JESUS ADRIAN\\Desktop\\Adrian_Barrera\\Adrian_Barrera\\Sabado 2025 1\\assets\\scripts\\moveplayer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B428D91-F357-5247-AA1A-7B93C86054BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveplayer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B428D91-F357-5247-AA1A-7B93C86054BD}|Assembly-CSharp.csproj|C:\\Users\\JESUS ADRIAN\\Desktop\\Adrian_Barrera\\Adrian_Barrera\\Sabado 2025 1\\assets\\scripts\\controladortemporalmusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B428D91-F357-5247-AA1A-7B93C86054BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controladortemporalmusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B428D91-F357-5247-AA1A-7B93C86054BD}|Assembly-CSharp.csproj|C:\\Users\\JESUS ADRIAN\\Desktop\\Adrian_Barrera\\Adrian_Barrera\\Sabado 2025 1\\assets\\scripts\\controladorescenas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B428D91-F357-5247-AA1A-7B93C86054BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controladorescenas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B428D91-F357-5247-AA1A-7B93C86054BD}|Assembly-CSharp.csproj|C:\\Users\\JESUS ADRIAN\\Desktop\\Adrian_Barrera\\Adrian_Barrera\\Sabado 2025 1\\assets\\scripts\\spawncama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B428D91-F357-5247-AA1A-7B93C86054BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawncama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B428D91-F357-5247-AA1A-7B93C86054BD}|Assembly-CSharp.csproj|C:\\Users\\JESUS ADRIAN\\Desktop\\Adrian_Barrera\\Adrian_Barrera\\Sabado 2025 1\\assets\\scripts\\controladormoneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B428D91-F357-5247-AA1A-7B93C86054BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controladormoneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B428D91-F357-5247-AA1A-7B93C86054BD}|Assembly-CSharp.csproj|C:\\Users\\JESUS ADRIAN\\Desktop\\Adrian_Barrera\\Adrian_Barrera\\Sabado 2025 1\\assets\\scripts\\almacenardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B428D91-F357-5247-AA1A-7B93C86054BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\almacenardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B428D91-F357-5247-AA1A-7B93C86054BD}|Assembly-CSharp.csproj|C:\\Users\\JESUS ADRIAN\\Desktop\\Adrian_Barrera\\Adrian_Barrera\\Sabado 2025 1\\assets\\scripts\\vidajugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B428D91-F357-5247-AA1A-7B93C86054BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\vidajugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FondoMovimiento.cs",
+              "DocumentMoniker": "C:\\Users\\JESUS ADRIAN\\Desktop\\Adrian_Barrera\\Adrian_Barrera\\Sabado 2025 1\\Assets\\FondoMovimiento.cs",
+              "RelativeDocumentMoniker": "Assets\\FondoMovimiento.cs",
+              "ToolTip": "C:\\Users\\JESUS ADRIAN\\Desktop\\Adrian_Barrera\\Adrian_Barrera\\Sabado 2025 1\\Assets\\FondoMovimiento.cs",
+              "RelativeToolTip": "Assets\\FondoMovimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:43:19.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ControladorMoneda.cs",
+              "DocumentMoniker": "C:\\Users\\JESUS ADRIAN\\Desktop\\Adrian_Barrera\\Adrian_Barrera\\Sabado 2025 1\\Assets\\Scripts\\ControladorMoneda.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ControladorMoneda.cs",
+              "ToolTip": "C:\\Users\\JESUS ADRIAN\\Desktop\\Adrian_Barrera\\Adrian_Barrera\\Sabado 2025 1\\Assets\\Scripts\\ControladorMoneda.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ControladorMoneda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:24:02.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpawnCama.cs",
+              "DocumentMoniker": "C:\\Users\\JESUS ADRIAN\\Desktop\\Adrian_Barrera\\Adrian_Barrera\\Sabado 2025 1\\Assets\\Scripts\\SpawnCama.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnCama.cs",
+              "ToolTip": "C:\\Users\\JESUS ADRIAN\\Desktop\\Adrian_Barrera\\Adrian_Barrera\\Sabado 2025 1\\Assets\\Scripts\\SpawnCama.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnCama.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:58:06.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlmacenarDatos.cs",
+              "DocumentMoniker": "C:\\Users\\JESUS ADRIAN\\Desktop\\Adrian_Barrera\\Adrian_Barrera\\Sabado 2025 1\\Assets\\Scripts\\AlmacenarDatos.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AlmacenarDatos.cs",
+              "ToolTip": "C:\\Users\\JESUS ADRIAN\\Desktop\\Adrian_Barrera\\Adrian_Barrera\\Sabado 2025 1\\Assets\\Scripts\\AlmacenarDatos.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AlmacenarDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:02:21.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ControladorTemporalMusica.cs",
+              "DocumentMoniker": "C:\\Users\\JESUS ADRIAN\\Desktop\\Adrian_Barrera\\Adrian_Barrera\\Sabado 2025 1\\Assets\\Scripts\\ControladorTemporalMusica.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ControladorTemporalMusica.cs",
+              "ToolTip": "C:\\Users\\JESUS ADRIAN\\Desktop\\Adrian_Barrera\\Adrian_Barrera\\Sabado 2025 1\\Assets\\Scripts\\ControladorTemporalMusica.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ControladorTemporalMusica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T17:07:19.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ControladorEscenas.cs",
+              "DocumentMoniker": "C:\\Users\\JESUS ADRIAN\\Desktop\\Adrian_Barrera\\Adrian_Barrera\\Sabado 2025 1\\Assets\\Scripts\\ControladorEscenas.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ControladorEscenas.cs",
+              "ToolTip": "C:\\Users\\JESUS ADRIAN\\Desktop\\Adrian_Barrera\\Adrian_Barrera\\Sabado 2025 1\\Assets\\Scripts\\ControladorEscenas.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ControladorEscenas.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAEBdwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:56:56.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VidaJugador.cs",
+              "DocumentMoniker": "C:\\Users\\JESUS ADRIAN\\Desktop\\Adrian_Barrera\\Adrian_Barrera\\Sabado 2025 1\\Assets\\Scripts\\VidaJugador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VidaJugador.cs",
+              "ToolTip": "C:\\Users\\JESUS ADRIAN\\Desktop\\Adrian_Barrera\\Adrian_Barrera\\Sabado 2025 1\\Assets\\Scripts\\VidaJugador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VidaJugador.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T19:00:20.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovePlayer1.cs",
+              "DocumentMoniker": "C:\\Users\\JESUS ADRIAN\\Desktop\\Adrian_Barrera\\Adrian_Barrera\\Sabado 2025 1\\Assets\\Scripts\\MovePlayer1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovePlayer1.cs",
+              "ToolTip": "C:\\Users\\JESUS ADRIAN\\Desktop\\Adrian_Barrera\\Adrian_Barrera\\Sabado 2025 1\\Assets\\Scripts\\MovePlayer1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovePlayer1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T16:26:55.593Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
